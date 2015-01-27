@@ -20,6 +20,8 @@ module.exports = {
   // models: {
   //   connection: 'someMysqlServer'
   // },
+  
+  port: 80
 
   /***************************************************************************
    * Set the port in the production environment to 80                        *
